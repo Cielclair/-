@@ -1,6 +1,6 @@
 <!-- ![logo](_media/icon.svg) -->
 
-# 本が与える安心感 <small>last updated: 2020.06.02</small>
+# 本が与える安心感 <small>last updated: 2020.06.03</small>
 
 <!-- > 书本才能给的安全感 -->
 
