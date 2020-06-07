@@ -1,2 +1,2 @@
-* [首页](zh-cn/)
-* [指南](zh-cn/guide)
+* [第14章 Window对象](JavaScript/JavaScript权威指南/14_Window对象.md)
+

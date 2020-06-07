@@ -3,4 +3,7 @@
 * [第5章 引用类型](JavaScript/JavaScript高级程序设计/5_引用类型.md)
 * [第6章 面向对象的程序设计](JavaScript/JavaScript高级程序设计/6_面向对象的程序设计.md)
 * [第7章 函数表达式](JavaScript/JavaScript高级程序设计/7_函数表达式.md)
+* [第8章 BOM](JavaScript/JavaScript高级程序设计/8_BOM.md)
+* [第10章 DOM](JavaScript/JavaScript高级程序设计/10_DOM.md)
+* [第13章 事件](JavaScript/JavaScript高级程序设计/13_事件.md)
 
