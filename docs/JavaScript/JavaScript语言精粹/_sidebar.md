@@ -1,2 +1,11 @@
-* [首页](zh-cn/)
-* [指南](zh-cn/guide)
+* [第1章 精华](JavaScript/JavaScript语言精粹/1_精华.md)
+* [第2章 语法](JavaScript/JavaScript语言精粹/2_语法.md)
+* [第3章 对象](JavaScript/JavaScript语言精粹/3_对象.md)
+* [第4章 函数](JavaScript/JavaScript语言精粹/4_函数.md)
+* [第5章 继承](JavaScript/JavaScript语言精粹/5_继承.md)
+* [第6章 数组](JavaScript/JavaScript语言精粹/6_数组.md)
+* [第7章 正则表达式](JavaScript/JavaScript语言精粹/7_正则表达式.md)
+* [第8章 方法](JavaScript/JavaScript语言精粹/8_方法.md)
+* [第9章 代码风格](JavaScript/JavaScript语言精粹/9_代码风格.md)
+* [第10章 优美的特性](JavaScript/JavaScript语言精粹/10_优美的特性.md)
+
