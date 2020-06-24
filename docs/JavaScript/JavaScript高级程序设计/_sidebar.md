@@ -5,5 +5,7 @@
 * [第7章 函数表达式](JavaScript/JavaScript高级程序设计/7_函数表达式.md)
 * [第8章 BOM](JavaScript/JavaScript高级程序设计/8_BOM.md)
 * [第10章 DOM](JavaScript/JavaScript高级程序设计/10_DOM.md)
+* [第11章 DOM扩展](JavaScript/JavaScript高级程序设计/11_DOM扩展.md)
+* [第12章 DOM2和DOM3](JavaScript/JavaScript高级程序设计/12_DOM2和DOM3.md)
 * [第13章 事件](JavaScript/JavaScript高级程序设计/13_事件.md)
 
