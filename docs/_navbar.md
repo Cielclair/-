@@ -13,11 +13,15 @@
   * [JavaScript DOM编程艺术](JavaScript/JavaScriptDOM编程艺术/)
   * [高性能JavaScript](JavaScript/高性能JavaScript/)
   * [JavaScript函数式编程思想](JavaScript/JavaScript函数式编程思想/)
+  * [深入理解JavaScript特性](JavaScript/深入理解JavaScript特性/)
 
 * 设计模式
 
   * [Head First设计模式](设计模式/HeadFirst设计模式/)
+  * [图解设计模式](设计模式/图解设计模式/)
   * [深入设计模式](设计模式/深入设计模式/)
 
 * Documentation
   * [Bootstrap](Documentation/Bootstrap/)
+  * [Vue](Documentation/Vue/)
+
