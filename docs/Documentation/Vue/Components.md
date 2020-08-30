@@ -14,9 +14,11 @@ data: function () {
 
 
 
+## 自定义事件
 
+?> **始终使用 kebab-case 的事件名**
 
-
+> 如果想要知道理由，[点这]([https://cn.vuejs.org/v2/guide/components-custom-events.html#%E4%BA%8B%E4%BB%B6%E5%90%8D](https://cn.vuejs.org/v2/guide/components-custom-events.html#事件名))
 
 ## keep-alive
 
